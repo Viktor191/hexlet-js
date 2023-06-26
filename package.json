@@ -1,0 +1,20 @@
+{
+  "type": "module",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "name": "hexlet",
+  "description": "\"Мой первый проект на Хекслете\"",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "eslint": "^8.42.0",
+    "prettier": "^2.8.8"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
